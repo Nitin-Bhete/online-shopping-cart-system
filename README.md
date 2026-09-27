@@ -100,5 +100,7 @@ Open your browser and navigate to:
 
 Plaintext
 http://localhost:8080/shopping-cart/
+
 Author
-Nitin Bhete – GitHub Profile
+
+Nitin Bhete
