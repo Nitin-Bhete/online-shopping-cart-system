@@ -101,5 +101,5 @@ Open your browser and navigate to:
 Plaintext
 http://localhost:8080/shopping-cart/
 
-Author
+Author -
 Nitin Bhete
